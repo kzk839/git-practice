@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 変更テスト
 new-feature branch
-conflict ブランチで変更
+Github 上で更新テスト
